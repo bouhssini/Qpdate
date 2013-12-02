@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Resources/Internet.ico</file>
+        <file>Resources/Internet.png</file>
+        <file>Resources/font/tahoma.ttf</file>
+        <file>Resources/font/tahomabd.ttf</file>
+        <file>Resources/frm/pp.png</file>
+        <file>Resources/Languages/arabic.qm</file>
+        <file>Resources/Languages/english.qm</file>
+        <file>Resources/Languages/french.qm</file>
+        <file>Resources/font/DroidKufi-Bold.ttf</file>
+        <file>Resources/font/DroidKufi-Regular.ttf</file>
+    </qresource>
+</RCC>

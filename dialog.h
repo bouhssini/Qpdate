@@ -24,9 +24,11 @@
 
 #ifdef Q_OS_WIN32
 #define OSTEST "Win32"
-#elif Q_OS_MAC
+#endif
+#ifdef Q_OS_MAC
 #define OSTEST "MacOS"
-#elif Q_OS_LINUX
+#endif
+#ifdef Q_OS_LINUX
 #define OSTEST "Linux"
 #endif
 
